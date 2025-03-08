@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+	<title>Install SideM</title>
+</head>
+
+<body style="background-color:#02AC71">
+	<center>
+	<h1>The iDOLM@STER SideM</h1>
+	</center>
+	<h3>Get into SideM</h3>
+	<ul>
+		<li>49 idols waiting!! </li>
+	</ul>
+	<p>Pls <b>install</b> it</p>
+	<br>
+  <hr><br>
+  <table border="1" width="800" align="center">
+    <tr>
+    <center> 
+      <h2>Compare SideM to other games</h2>
+      </center>
+    </tr>
+    <tr>
+    <td align="center" width="400"><h3>SideM</h3></center></td>
+    <td align="center" width="400">Other games</center></td>
+    </tr>
+    <tr>
+    <td align="center"><h4>Has 49 idols</h4></center></td>
+    <td align="center">Does not have 49 idols</center></td>
+    </tr>
+    <tr>
+    <td align="center"><h4>Has Kyoji Takajo</h4>
+    <img src="https://media.tenor.com/Itlp2Q2jbl0AAAAS/idolmaster-sidem.gif" height="50" width="120"></center></td>
+    <td align="center"><br>Does not have Kyoji Takajo</center><br><br><img src="https://i.kym-cdn.com/entries/icons/original/000/031/671/cover1.jpg" height="70" width="200"></td>
+    </tr>
+  </table>
+  <br><hr><br>
+  <h2>Install here:</h2>
+  <ul>
+    <li><a href="https://sidem-gs.idolmaster-official.jp/">Official website</a></li> 
+    <li><a href="https://play.google.com/store/apps/details?id=com.bandainamcoent.SideM_GROWINGSTARS">Google Play Store</a>
+    <li><a href="https://apps.apple.com/jp/app/id1568043783?mt=8">App Store</a></li>
+  </ul> 
+  <br><hr><br>
+  <p>Please have this image of Kyoji Takajo from iDOLM@STER SideM as tax:</p>
+  <img src="https://media.tenor.com/Itlp2Q2jbl0AAAAS/idolmaster-sidem.gif" height="250" width="800">
+  <br><hr><br>
+  <center>
+  <h2>Do you like this website?</h2>
+  <a href="javascript:alert('Yayyy!!!! Thank you')">Yes</a>
+  <a href="javascript:alert('Oh... Thanks for feedback')">No</a>
+  </center>
+  <br><br><br><br><br><br>
+ </body>
+</html>
